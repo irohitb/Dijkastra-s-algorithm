@@ -84,4 +84,5 @@ const lowestCostNode = (trackingCosts, processed) => {
   }, null);
 };
 
+//Execution of function
 console.log(shortestRoute(graph))
